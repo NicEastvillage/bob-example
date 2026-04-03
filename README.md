@@ -21,4 +21,5 @@ The bots in this repo are examples of `bob.toml` configurations for various lang
 - **Rust:** The `rust_example` folder, the `bob.toml` is intuitive.
 - **C#:** The `csharp-example` submodule, instructions in README.
 - **C++ (GigaLearn):** No example, but template and instructions in https://github.com/SubparN0va/GGLBot/tree/bob (bob branch).
-- **Prebuilt binary:** The `prebuilt_example` folder, the `bob.toml` is intuitive.
+
+For more advanced setups, a custom dockerfile might be needed. In that case, refer to the `prebuilt_binary` folder where a pre-built binary is added. Note however, that binaries are not accepted in the botpack since it defeats the purpose of bob.
